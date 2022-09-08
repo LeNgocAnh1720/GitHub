@@ -22,7 +22,11 @@ public class Test {
         System.out.println("Branch 2 LeNgocAnh");
         System.out.println("Branch 2 NguyenHoangGiaThy");
         
-        
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Hello3");
+        }
+
         for (int i = 0; i < 10; i++) {
             System.out.println("Hello2");
         }
