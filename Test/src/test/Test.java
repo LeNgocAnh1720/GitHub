@@ -19,6 +19,7 @@ public class Test {
         
         System.out.println("Branch 1 LeNgocAnh");
         
+        System.out.println("Branch 2 LeNgocAnh");
         System.out.println("Branch 2 NguyenHoangGiaThy");
     }
     
