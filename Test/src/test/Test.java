@@ -31,6 +31,12 @@ public class Test {
         for (int i = 0; i < 10; i++) {
             System.out.println("Hello2");
         }
+        
+        int z = 0;
+        do {            
+            System.out.println(z +"Brach10");
+            z++;
+        } while (z<10);
     }
     
 }
